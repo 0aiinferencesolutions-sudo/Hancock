@@ -357,7 +357,7 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
 - ❌ Training AI/ML models on the code or datasets
 - ❌ White-labeling or removing CyberViser branding
 
-**For commercial licensing:** contact@cyberviser.ai
+**For commercial licensing:** cyberviser@proton.me
 
 ---
 
